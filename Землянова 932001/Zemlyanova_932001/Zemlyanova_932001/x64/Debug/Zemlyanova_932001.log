@@ -1,0 +1,5 @@
+﻿  Form1.cpp
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\2 семестр\ООАП 2 семестр\ИЗ\Землянова 932001\Zemlyanova_932001\Zemlyanova_932001\Form1.cpp(19,38): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\2 семестр\ООАП 2 семестр\ИЗ\Землянова 932001\Zemlyanova_932001\Zemlyanova_932001\Form1.cpp(400,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Form1.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Zemlyanova_932001.vcxproj -> C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\2 семестр\ООАП 2 семестр\ИЗ\Землянова 932001\Zemlyanova_932001\x64\Debug\Zemlyanova_932001.exe
